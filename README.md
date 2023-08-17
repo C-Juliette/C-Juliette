@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning mathematics data science techniques
 - 👯 I’m looking to collaborate on big data and data engineering projects
 - 📫 How to reach me: chiapellojuliette@gmail.com
-- LinkedIn : https://www.linkedin.com/in/juliettechiapello/
+- 🪢 LinkedIn : https://www.linkedin.com/in/juliettechiapello/
 - 😄 Pronouns: she/her
 - ⚡ I love Avatar, the last Airbender !
