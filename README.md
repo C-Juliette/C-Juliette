@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-### Biographie
+### Biography
 
 I am a data consultant at Business & Decision. I joined the teams through their Individual Operational Employment Preparation (POEI) program in Data Engineering, which allowed me to grasp data project management in industrial contexts.
 
