@@ -1,4 +1,7 @@
-<p align="center"><strong><span style="font-size: larger;">Hi there, I'm Juliette 👋</span></strong></p>
+<p align="cen<p align="center"><strong><span style="font-size: xx-large;">Hi there, I'm Juliette ! 👋 </span></strong></p>
+
+
+
 
 
 <!--
