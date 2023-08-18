@@ -3,6 +3,8 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,discord,docker,gcp,git,github,githubactions,gitlab,idea,jenkins,linux,mysql,postgres,powershell,py,pytorch,r,sqlite,stackoverflow,scala,tensorflow,vscode,html,css)](https://skillicons.dev)
 
 
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,gcp,pytorch,python,r,postgres&theme=light&perline=4)](https://skillicons.dev)
+
 
 
 <!--
