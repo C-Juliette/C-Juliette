@@ -1,4 +1,5 @@
-<p align="center"><strong>Hi there, I'm Juliette 👋</strong></p>
+<p align="center"><strong><span style="font-size: larger;">Hi there, I'm Juliette 👋</span></strong></p>
+
 
 <!--
 **C-Juliette/C-Juliette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +22,9 @@ Long live the tidyverse, ggplot2, usethis, testthat, as well as scikit-learn, se
 ### Key points
 
 - 🔭 I’m currently working on projects with R, SQL and python 
-- 🌱 I’m currently learning mathematical data science techniques
-- 👯 I’m looking to collaborate on big data and data engineering projects
+- 🌱 I’m continously learning mathematical data science techniques
+- 👯 I’m looking to collaborate on big data, data engineering and data science projects
 - 📫 How to reach me: chiapellojuliette@gmail.com
 - 🪢 LinkedIn : https://www.linkedin.com/in/juliettechiapello/
-- 😄 Pronouns: she/her
+- 😄 Pronouns: She/her
 - ⚡ I love Avatar, the last Airbender !
