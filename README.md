@@ -1,5 +1,6 @@
 <p align="cen<p align="center"><strong><span style="font-size: xx-large;">Hi there, I'm Juliette ! 👋 </span></strong></p>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
